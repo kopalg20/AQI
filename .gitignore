@@ -1,0 +1,35 @@
+# Downloaded API data (re-fetched automatically by run_experiments.py)
+data/
+
+# Run logs
+results/*.txt
+*.log
+
+# Overleaf upload bundle (built from paper/ + results/)
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.out
+paper/*.synctex.gz
+paper/*.toc
+paper/*.pdf
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

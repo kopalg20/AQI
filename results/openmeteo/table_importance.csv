@@ -1,0 +1,191 @@
+setting,city,group,share
+nowcast,Delhi,Calendar,0.05726994287528425
+nowcast,Delhi,Current level & recent change,0.0977572092431899
+nowcast,Delhi,Day-t meteorology,0.46600538013298126
+nowcast,Delhi,Lagged / rolling pollution,0.37896746774854456
+nowcast,Delhi,TOP1:met_wind_speed_10m_d1,0.05012341906734901
+nowcast,Delhi,TOP2:z_lag1,0.044408846334483915
+nowcast,Delhi,TOP3:z_anom30,0.04372312633913339
+nowcast,Delhi,TOP4:met_surface_pressure_d1,0.03775740714413133
+nowcast,Delhi,TOP5:met_wind_v,0.0364892795649419
+nowcast,Lucknow,Calendar,0.05687308540885116
+nowcast,Lucknow,Current level & recent change,0.09357085164593282
+nowcast,Lucknow,Day-t meteorology,0.4863140985180821
+nowcast,Lucknow,Lagged / rolling pollution,0.3632419644271339
+nowcast,Lucknow,TOP1:met_wind_speed_10m_d1,0.04826146800895788
+nowcast,Lucknow,TOP2:z_lag1,0.03987126116452384
+nowcast,Lucknow,TOP3:z_anom30,0.039457351283098484
+nowcast,Lucknow,TOP4:met_wind_u,0.039387987583897846
+nowcast,Lucknow,TOP5:dz_1,0.036112621659096206
+nowcast,Patna,Calendar,0.04771536495290505
+nowcast,Patna,Current level & recent change,0.08941509734087814
+nowcast,Patna,Day-t meteorology,0.4741518599409281
+nowcast,Patna,Lagged / rolling pollution,0.3887176777652887
+nowcast,Patna,TOP1:z_lag1,0.06244796101248986
+nowcast,Patna,TOP2:met_wind_speed_10m_d1,0.04792812185055487
+nowcast,Patna,TOP3:met_temperature_2m_d1,0.03863097634237362
+nowcast,Patna,TOP4:dz_1,0.038351889748397795
+nowcast,Patna,TOP5:met_boundary_layer_height_d1,0.03816427713084725
+nowcast,Kolkata,Calendar,0.06474533877043649
+nowcast,Kolkata,Current level & recent change,0.09805876369882241
+nowcast,Kolkata,Day-t meteorology,0.4914582392613377
+nowcast,Kolkata,Lagged / rolling pollution,0.3457376582694034
+nowcast,Kolkata,TOP1:z_lag1,0.04691573572048313
+nowcast,Kolkata,TOP2:dz_1,0.04677949384258952
+nowcast,Kolkata,TOP3:met_wind_u,0.0467132495088441
+nowcast,Kolkata,TOP4:met_wind_speed_10m_d1,0.04669683134003777
+nowcast,Kolkata,TOP5:z_anom30,0.04647191773967283
+nowcast,Ahmedabad,Calendar,0.055916357880519775
+nowcast,Ahmedabad,Current level & recent change,0.09111576889994227
+nowcast,Ahmedabad,Day-t meteorology,0.46979292321151933
+nowcast,Ahmedabad,Lagged / rolling pollution,0.38317495000801866
+nowcast,Ahmedabad,TOP1:met_wind_speed_10m_d1,0.050305641428527295
+nowcast,Ahmedabad,TOP2:z_anom30,0.049191668073158855
+nowcast,Ahmedabad,TOP3:z_lag1,0.04367298992228832
+nowcast,Ahmedabad,TOP4:met_wind_u,0.038370520175061505
+nowcast,Ahmedabad,TOP5:dz_1,0.03515834495615641
+nowcast,Mumbai,Calendar,0.05295426158073854
+nowcast,Mumbai,Current level & recent change,0.10398894816645961
+nowcast,Mumbai,Day-t meteorology,0.49830872540251453
+nowcast,Mumbai,Lagged / rolling pollution,0.3447480648502873
+nowcast,Mumbai,TOP1:dz_1,0.046423174076371504
+nowcast,Mumbai,TOP2:z_anom30,0.04544833561199433
+nowcast,Mumbai,TOP3:met_surface_pressure_d1,0.043825299830095595
+nowcast,Mumbai,TOP4:met_wind_v,0.038248891989270846
+nowcast,Mumbai,TOP5:z_anom7,0.03769560016096552
+nowcast,Pune,Calendar,0.05519610526252008
+nowcast,Pune,Current level & recent change,0.09251468101033838
+nowcast,Pune,Day-t meteorology,0.4850762387181471
+nowcast,Pune,Lagged / rolling pollution,0.36721297500899447
+nowcast,Pune,TOP1:z_lag1,0.048445608250461375
+nowcast,Pune,TOP2:met_wind_speed_10m_d1,0.04437574887099567
+nowcast,Pune,TOP3:z_anom30,0.04286148453808764
+nowcast,Pune,TOP4:met_surface_pressure,0.0411003943058274
+nowcast,Pune,TOP5:met_boundary_layer_height_d1,0.03936956825453149
+nowcast,Hyderabad,Calendar,0.05551372977779813
+nowcast,Hyderabad,Current level & recent change,0.09181126886954594
+nowcast,Hyderabad,Day-t meteorology,0.4915240375151069
+nowcast,Hyderabad,Lagged / rolling pollution,0.361150963837549
+nowcast,Hyderabad,TOP1:met_surface_pressure,0.0459620925287042
+nowcast,Hyderabad,TOP2:z_lag1,0.045828213752494976
+nowcast,Hyderabad,TOP3:z_anom30,0.0455985230322023
+nowcast,Hyderabad,TOP4:met_wind_speed_10m_d1,0.039650299626512155
+nowcast,Hyderabad,TOP5:met_wind_v,0.03891943595818125
+nowcast,Bengaluru,Calendar,0.05465731642465014
+nowcast,Bengaluru,Current level & recent change,0.09009256799237036
+nowcast,Bengaluru,Day-t meteorology,0.48471639885366224
+nowcast,Bengaluru,Lagged / rolling pollution,0.37053371672931723
+nowcast,Bengaluru,TOP1:z_lag1,0.052256158930200816
+nowcast,Bengaluru,TOP2:z_anom30,0.0450206501725285
+nowcast,Bengaluru,TOP3:met_wind_speed_10m_d1,0.04238013642073877
+nowcast,Bengaluru,TOP4:met_relative_humidity_2m_d1,0.038286967265445906
+nowcast,Bengaluru,TOP5:met_surface_pressure,0.037288456055275525
+nowcast,Chennai,Calendar,0.05581772748519964
+nowcast,Chennai,Current level & recent change,0.0816946426368781
+nowcast,Chennai,Day-t meteorology,0.47910826582305377
+nowcast,Chennai,Lagged / rolling pollution,0.3833793640548685
+nowcast,Chennai,TOP1:z_lag1,0.05377791530609253
+nowcast,Chennai,TOP2:met_boundary_layer_height_d1,0.03449358056088126
+nowcast,Chennai,TOP3:met_blh_min,0.032525641407690986
+nowcast,Chennai,TOP4:z_lag5,0.032321018909172605
+nowcast,Chennai,TOP5:met_wind_speed_10m_d1,0.031872797516023246
+perfect_prog,Delhi,Calendar,0.03620920143712425
+perfect_prog,Delhi,Current level & recent change,0.0681764385200842
+perfect_prog,Delhi,Day-t meteorology,0.2629059452948657
+perfect_prog,Delhi,Lagged / rolling pollution,0.23593762539227459
+perfect_prog,Delhi,Next-day meteorology,0.39677078935565124
+perfect_prog,Delhi,TOP1:f1d_met_wind_speed_10m,0.07565949116822752
+perfect_prog,Delhi,TOP2:f1_met_wind_speed_10m,0.038796587455382246
+perfect_prog,Delhi,TOP3:z_anom30,0.03623621984615352
+perfect_prog,Delhi,TOP4:f1d_met_temperature_2m,0.03341111281398242
+perfect_prog,Delhi,TOP5:met_wind_speed_10m_d1,0.03177155894989561
+perfect_prog,Lucknow,Calendar,0.03946026001901151
+perfect_prog,Lucknow,Current level & recent change,0.06651729576374152
+perfect_prog,Lucknow,Day-t meteorology,0.28530101994693047
+perfect_prog,Lucknow,Lagged / rolling pollution,0.26420763099814354
+perfect_prog,Lucknow,Next-day meteorology,0.34451379327217296
+perfect_prog,Lucknow,TOP1:f1d_met_wind_speed_10m,0.062133637338403436
+perfect_prog,Lucknow,TOP2:z_anom30,0.040358514864438214
+perfect_prog,Lucknow,TOP3:f1_met_wind_speed_10m,0.0388345724720456
+perfect_prog,Lucknow,TOP4:z_lag1,0.036291586354648235
+perfect_prog,Lucknow,TOP5:met_wind_speed_10m_d1,0.02839715296794175
+perfect_prog,Patna,Calendar,0.028163702412901767
+perfect_prog,Patna,Current level & recent change,0.06537423027263414
+perfect_prog,Patna,Day-t meteorology,0.27525049312843186
+perfect_prog,Patna,Lagged / rolling pollution,0.26091231686622773
+perfect_prog,Patna,Next-day meteorology,0.37029925731980445
+perfect_prog,Patna,TOP1:f1d_met_wind_speed_10m,0.07998599304737516
+perfect_prog,Patna,TOP2:z_lag1,0.046319160757120094
+perfect_prog,Patna,TOP3:f1_met_blh_min,0.036909966202298
+perfect_prog,Patna,TOP4:z_anom30,0.034918722891377325
+perfect_prog,Patna,TOP5:met_wind_speed_10m_d1,0.03491404390407405
+perfect_prog,Kolkata,Calendar,0.03295113681129455
+perfect_prog,Kolkata,Current level & recent change,0.07489155856303831
+perfect_prog,Kolkata,Day-t meteorology,0.2403545241315041
+perfect_prog,Kolkata,Lagged / rolling pollution,0.24914633901699504
+perfect_prog,Kolkata,Next-day meteorology,0.40265644147716806
+perfect_prog,Kolkata,TOP1:f1d_met_wind_speed_10m,0.07767078374191215
+perfect_prog,Kolkata,TOP2:f1_met_wind_u,0.04771047903423077
+perfect_prog,Kolkata,TOP3:z_anom30,0.042179541106529675
+perfect_prog,Kolkata,TOP4:z_lag1,0.04072670338163246
+perfect_prog,Kolkata,TOP5:f1_met_wind_v,0.03762696419702609
+perfect_prog,Ahmedabad,Calendar,0.032263932211149884
+perfect_prog,Ahmedabad,Current level & recent change,0.0678489155062364
+perfect_prog,Ahmedabad,Day-t meteorology,0.26520415111199286
+perfect_prog,Ahmedabad,Lagged / rolling pollution,0.27083496926175554
+perfect_prog,Ahmedabad,Next-day meteorology,0.36384803190886533
+perfect_prog,Ahmedabad,TOP1:f1d_met_wind_speed_10m,0.06432385534272503
+perfect_prog,Ahmedabad,TOP2:z_anom30,0.03963102749299137
+perfect_prog,Ahmedabad,TOP3:f1_met_wind_u,0.038409970119705636
+perfect_prog,Ahmedabad,TOP4:f1_met_blh_min,0.03184705475136069
+perfect_prog,Ahmedabad,TOP5:f1d_met_relative_humidity_2m,0.03142467486364839
+perfect_prog,Mumbai,Calendar,0.031724048306205684
+perfect_prog,Mumbai,Current level & recent change,0.07223269565151329
+perfect_prog,Mumbai,Day-t meteorology,0.2947204370835275
+perfect_prog,Mumbai,Lagged / rolling pollution,0.24927938685265372
+perfect_prog,Mumbai,Next-day meteorology,0.3520434321060998
+perfect_prog,Mumbai,TOP1:z_anom30,0.03749687801822644
+perfect_prog,Mumbai,TOP2:f1d_met_temperature_2m,0.03605248410027003
+perfect_prog,Mumbai,TOP3:f1_met_wind_u,0.035982134091266146
+perfect_prog,Mumbai,TOP4:f1d_met_wind_speed_10m,0.03352507944857165
+perfect_prog,Mumbai,TOP5:z_lag1,0.031907437041354236
+perfect_prog,Pune,Calendar,0.02756314844521375
+perfect_prog,Pune,Current level & recent change,0.07206915336138309
+perfect_prog,Pune,Day-t meteorology,0.2669103525253391
+perfect_prog,Pune,Lagged / rolling pollution,0.24566180884266123
+perfect_prog,Pune,Next-day meteorology,0.3877955368254028
+perfect_prog,Pune,TOP1:f1d_met_wind_speed_10m,0.04636476397861126
+perfect_prog,Pune,TOP2:f1d_met_relative_humidity_2m,0.04299488635420837
+perfect_prog,Pune,TOP3:z_lag1,0.03913025168701274
+perfect_prog,Pune,TOP4:f1_met_wind_v,0.03894032342113493
+perfect_prog,Pune,TOP5:z_anom30,0.0367387723764753
+perfect_prog,Hyderabad,Calendar,0.030194345151311874
+perfect_prog,Hyderabad,Current level & recent change,0.07077497782267231
+perfect_prog,Hyderabad,Day-t meteorology,0.2579140683471366
+perfect_prog,Hyderabad,Lagged / rolling pollution,0.24785268506622427
+perfect_prog,Hyderabad,Next-day meteorology,0.39326392361265494
+perfect_prog,Hyderabad,TOP1:f1d_met_wind_speed_10m,0.056465091724464324
+perfect_prog,Hyderabad,TOP2:f1_met_wind_v,0.04551353470855531
+perfect_prog,Hyderabad,TOP3:z_lag1,0.04006704783486107
+perfect_prog,Hyderabad,TOP4:z_anom30,0.035557690734753795
+perfect_prog,Hyderabad,TOP5:f1_met_blh_min,0.029926745577613403
+perfect_prog,Bengaluru,Calendar,0.026205837438991103
+perfect_prog,Bengaluru,Current level & recent change,0.07144916152938667
+perfect_prog,Bengaluru,Day-t meteorology,0.2633565664751999
+perfect_prog,Bengaluru,Lagged / rolling pollution,0.24550061202487605
+perfect_prog,Bengaluru,Next-day meteorology,0.3934878225315463
+perfect_prog,Bengaluru,TOP1:f1d_met_wind_speed_10m,0.08091901029580574
+perfect_prog,Bengaluru,TOP2:z_anom30,0.03802470646759986
+perfect_prog,Bengaluru,TOP3:z_lag1,0.03360492906265073
+perfect_prog,Bengaluru,TOP4:z_lag0,0.031262070240501906
+perfect_prog,Bengaluru,TOP5:f1_met_wind_speed_10m,0.028481699883931944
+perfect_prog,Chennai,Calendar,0.03298476724789716
+perfect_prog,Chennai,Current level & recent change,0.062431988346919515
+perfect_prog,Chennai,Day-t meteorology,0.27636853729630084
+perfect_prog,Chennai,Lagged / rolling pollution,0.2650278445143874
+perfect_prog,Chennai,Next-day meteorology,0.3631868625944951
+perfect_prog,Chennai,TOP1:f1_met_wind_u,0.039131018726049856
+perfect_prog,Chennai,TOP2:z_lag1,0.03872768057608307
+perfect_prog,Chennai,TOP3:z_anom30,0.0329214024858572
+perfect_prog,Chennai,TOP4:f1d_met_wind_speed_10m,0.029808153603515596
+perfect_prog,Chennai,TOP5:f1d_met_temperature_2m,0.027611190524397217
